@@ -1,7 +1,7 @@
 __author__ = 'student'
 
 import turtle
-
+turtle.speed(20)
 def koch(l, n):
     assert n >= 0
     assert l >= 0
